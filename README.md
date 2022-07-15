@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-See finished site: https://dazzling-baklava-8666b0.netlify.app
+See finished site: https://chic-custard-be2573.netlify.app/
 
 ## Available Scripts
 
